@@ -11,6 +11,5 @@
 - Simulating_rainmix
 ![image](https://github.com/user-attachments/assets/f9bd498f-86f5-4182-8fc3-25ccdbfb6758)
 - Simulating_haze:
+- 
 ![image](https://github.com/user-attachments/assets/e92d4a50-4cf0-4f75-9722-71bbe6bfba98)
-
-
